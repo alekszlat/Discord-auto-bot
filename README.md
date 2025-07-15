@@ -49,7 +49,7 @@ You’ll brush up on:
 
 ## 🔧 Setup & Installation
 
-### 1. Clone the repo
+### 1. Clone the repo and Set up
 
 ```bash
 git clone https://github.com/<your-username>/<repo-name>.git
